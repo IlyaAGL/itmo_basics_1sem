@@ -1,0 +1,24 @@
+﻿  Lab5.c
+D:\Users\Илья\source\repos\Labs\Labs\Lab5.c(22,11): warning C4047: инициализация: "int **" отличается по уровням косвенного обращения от "int *"
+D:\Users\Илья\source\repos\Labs\Labs\Lab5.c(27,11): warning C4047: инициализация: "int **" отличается по уровням косвенного обращения от "int *"
+D:\Users\Илья\source\repos\Labs\Labs\Lab5.c(34,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Users\Илья\source\repos\Labs\Labs\Lab5.c(40,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Users\Илья\source\repos\Labs\Labs\Lab5.c(44,11): warning C4047: инициализация: "int **" отличается по уровням косвенного обращения от "int *"
+  Lab6.c
+D:\Users\Илья\source\repos\Labs\Labs\Lab6.c(9,17): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+D:\Users\Илья\source\repos\Labs\Labs\Lab6.c(9,17): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+D:\Users\Илья\source\repos\Labs\Labs\Lab6.c(9,17): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+D:\Users\Илья\source\repos\Labs\Labs\Lab6.c(9,17): message : этот аргумент используется в качестве размера буфера
+  Lab7_1.c
+D:\Users\Илья\source\repos\Labs\Labs\Lab7_1.c(10,17): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+D:\Users\Илья\source\repos\Labs\Labs\Lab7_1.c(10,17): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+D:\Users\Илья\source\repos\Labs\Labs\Lab7_1.c(10,17): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+D:\Users\Илья\source\repos\Labs\Labs\Lab7_1.c(10,17): message : этот аргумент используется в качестве размера буфера
+  Lab7_2.c
+D:\Users\Илья\source\repos\Labs\Labs\Lab7_2.c(24,18): warning C4474: "printf" : для строки формата передано слишком много аргументов
+D:\Users\Илья\source\repos\Labs\Labs\Lab7_2.c(24,18): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  Lab7_3.c
+  Lab8_1.c
+  Lab8_3.c
+  Lab8_5.c
+  Создание кода...
