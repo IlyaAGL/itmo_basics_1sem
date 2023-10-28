@@ -15,9 +15,9 @@ int main() {
     scanf_s("%x", &converter.hexValue);
 
 
-    printf("%s", converter.bits.bit1 ? "вопроизведение вкл \n" : "вопроизведение выкл \n");
-    printf("%s", converter.bits.bit2 ? "пауза вкл \n" : "пауза выкл \n");
-    printf("%s", converter.bits.bit3 ? "запись вкл \n" : "запись выкл \n");
+    printf("%s", converter.bits.bit1 ? "NumLock РІРєР» \n" : "NumLock РІС‹РєР» \n");
+    printf("%s", converter.bits.bit2 ? "CapsLock РІРєР» \n" : "CapsLock РІС‹РєР» \n");
+    printf("%s", converter.bits.bit3 ? "ScrollLock РІРєР» \n" : "ScrollLock РІС‹РєР» \n");
 
     return 0;
 }
