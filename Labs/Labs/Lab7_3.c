@@ -3,9 +3,9 @@
 union HexToBits {
     unsigned int hexValue;
     struct {
-        unsigned int bit1 : 1;
-        unsigned int bit2 : 1;
-        unsigned int bit3 : 1;
+        unsigned short bit1 : 1;
+        unsigned short bit2 : 1;
+        unsigned short bit3 : 1;
     } bits;
 };
 
