@@ -28,7 +28,7 @@ int main() {
     }
 
     for (int i = 0; i < n; i++) {
-        printf("Òî÷êà %d: ", i + 1);
+        printf("%d: ", i + 1);
         scanf("%f %f", &points[i][0], &points[i][1]);
     }
 
