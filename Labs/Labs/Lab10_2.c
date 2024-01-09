@@ -28,7 +28,7 @@ int main() {
     }
 
     for (int i = 0; i < n; i++) {
-        printf("Точка %d: ", i + 1);
+        printf("Г’Г®Г·ГЄГ  %d: ", i + 1);
         scanf("%f %f", &points[i][0], &points[i][1]);
     }
 
@@ -39,9 +39,9 @@ int main() {
 
     calculateDistances(n, points, distances);
 
-    printf("Расстояния:\n");
+    printf("\n");
     for (int i = 0; i < n; i++) {
-        printf("Точка %d: ", i + 1);
+        printf("Г’Г®Г·ГЄГ  %d: ", i + 1);
         for (int j = 0; j < n - 1; j++) {
             printf("%.2f ", distances[i][j]);
         }
